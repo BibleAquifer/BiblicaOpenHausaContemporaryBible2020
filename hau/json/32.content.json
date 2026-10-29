@@ -1,0 +1,482 @@
+[
+  {
+    "content_id": "10032001001",
+    "version": "1.0.2",
+    "title": "Yunana 1:1",
+    "media_type": "Text",
+    "index_reference": "32001001",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>1</sup>&nbsp;Maganar Ubangiji ta zo wa Yunana ɗan Amittai cewa,</p>"
+  },
+  {
+    "content_id": "10032001002",
+    "version": "1.0.2",
+    "title": "Yunana 1:2",
+    "media_type": "Text",
+    "index_reference": "32001002",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>2</sup>&nbsp;“Tafi babban birnin nan Ninebe ka yi mata wa’azi, saboda muguntarta ta haura zuwa gabana.”</p>"
+  },
+  {
+    "content_id": "10032001003",
+    "version": "1.0.2",
+    "title": "Yunana 1:3",
+    "media_type": "Text",
+    "index_reference": "32001003",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>3</sup>&nbsp;Amma Yunana ya gudu daga Ubangiji ya nufi Tarshish. Ya gangara zuwa Yaffa, inda ya sami jirgin ruwa mai shirin tashi daga tashar. Bayan ya biya kuɗin tafiya, sai ya shiga jirgi ya kama hanya zuwa Tarshish don yă tsere wa Ubangiji.</p>"
+  },
+  {
+    "content_id": "10032001004",
+    "version": "1.0.2",
+    "title": "Yunana 1:4",
+    "media_type": "Text",
+    "index_reference": "32001004",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>4</sup>&nbsp;Sai Ubangiji ya aika da babban iska a bisan teku, hadiri ya tsananta ƙwarai har jirgin ya yi barazanar farfashewa.</p>"
+  },
+  {
+    "content_id": "10032001005",
+    "version": "1.0.2",
+    "title": "Yunana 1:5",
+    "media_type": "Text",
+    "index_reference": "32001005",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>5</sup>&nbsp;Dukan matuƙan jirgin suka tsorata, kowannensu kuma ya yi kuka ga allahnsa, suka kuma jefar da kayan jirgi a cikin teku domin su rage nauyin jirgin. Ana cikin haka, ashe, Yunana ya sauka can ƙarƙashin jirgi ya je ya kwanta, yana ta sharar barcinsa.</p>"
+  },
+  {
+    "content_id": "10032001006",
+    "version": "1.0.2",
+    "title": "Yunana 1:6",
+    "media_type": "Text",
+    "index_reference": "32001006",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>6</sup>&nbsp;Sai kyaftin ɗin ya je wajensa ya ce masa, “Don me kake barci? Tashi ka kira bisa ga allahnka! Mai yiwuwa yă ji mu, yă cece mu don kada mu hallaka.”</p>"
+  },
+  {
+    "content_id": "10032001007",
+    "version": "1.0.2",
+    "title": "Yunana 1:7",
+    "media_type": "Text",
+    "index_reference": "32001007",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>7</sup>&nbsp;Matuƙan jirgin suka ce wa juna, “Ku zo, mu jefa ƙuri’a mu ga wa ke da alhakin wannan masifa.” Sai suka jefa ƙuri’a, ƙuri’ar kuwa ta fāɗa a kan Yunana.</p>"
+  },
+  {
+    "content_id": "10032001008",
+    "version": "1.0.2",
+    "title": "Yunana 1:8",
+    "media_type": "Text",
+    "index_reference": "32001008",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>8</sup>&nbsp;Saboda haka suka tambaye shi suka ce, “Yanzu, gaya mana, dalilin da ya sa wannan masifa ta zo mana? Mene ne aikinka? Daga ina ka fito? Ina ne ƙasarka? Daga wacce kabila ce ka fito?”</p>"
+  },
+  {
+    "content_id": "10032001009",
+    "version": "1.0.2",
+    "title": "Yunana 1:9",
+    "media_type": "Text",
+    "index_reference": "32001009",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>9</sup>&nbsp;Sai ya amsa, “Ni mutumin Ibraniyawa ne, ina kuma bauta wa Ubangiji Allah na sama, wanda ya yi teku da tuddai.”</p>"
+  },
+  {
+    "content_id": "10032001010",
+    "version": "1.0.2",
+    "title": "Yunana 1:10",
+    "media_type": "Text",
+    "index_reference": "32001010",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>10</sup>&nbsp;Sai matuƙan jirgin suka tsorata ƙwarai, suka ce masa, “Wane irin mugun abu ne ka aikata haka?” (Sun gane cewa yana gudu ne daga wurin Ubangiji, domin ya riga ya faɗa musu.)</p>"
+  },
+  {
+    "content_id": "10032001011",
+    "version": "1.0.2",
+    "title": "Yunana 1:11",
+    "media_type": "Text",
+    "index_reference": "32001011",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>11</sup>&nbsp;Sai tekun ya daɗa rikicewa. Sai suka tambaye shi, “Me za mu yi da kai domin tekun yă daina hauka?”</p>"
+  },
+  {
+    "content_id": "10032001012",
+    "version": "1.0.2",
+    "title": "Yunana 1:12",
+    "media_type": "Text",
+    "index_reference": "32001012",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>12</sup>&nbsp;Ya amsa musu ya ce, “Ku ɗauke ni ku jefa a cikin teku, tekun zai kwanta. Na san cewa laifina ne ya jawo wannan babban hadirin da ya auka muku.”</p>"
+  },
+  {
+    "content_id": "10032001013",
+    "version": "1.0.2",
+    "title": "Yunana 1:13",
+    "media_type": "Text",
+    "index_reference": "32001013",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>13</sup>&nbsp;Maimakon mutanen su yi haka, sai suka yi ƙoƙari su tura jirgin ruwan zuwa bakin teku. Amma ba su iya ba, saboda iskar ta sa tekun ya yi ta ƙara hauka.</p>"
+  },
+  {
+    "content_id": "10032001014",
+    "version": "1.0.2",
+    "title": "Yunana 1:14",
+    "media_type": "Text",
+    "index_reference": "32001014",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>14</sup>&nbsp;Sai suka yi kuka ga Ubangiji suka ce, “Ya Ubangiji, in ka yarda kada ka bar mu mu mutu saboda ran mutumin nan. Kada ka yi mana hukuncin masu kisankai, gama kai ne, ya Ubangiji, ka ga ya gamshe ka.”</p>"
+  },
+  {
+    "content_id": "10032001015",
+    "version": "1.0.2",
+    "title": "Yunana 1:15",
+    "media_type": "Text",
+    "index_reference": "32001015",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>15</sup>&nbsp;Sa’an nan suka ɗauki Yunana suka jefar da shi daga jirgin, sai tekun ya kwanta.</p>"
+  },
+  {
+    "content_id": "10032001016",
+    "version": "1.0.2",
+    "title": "Yunana 1:16",
+    "media_type": "Text",
+    "index_reference": "32001016",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>16</sup>&nbsp;Ganin haka sai mutanen suka cika da tsoron Ubangiji, suka kuma miƙa wa Ubangiji hadaya, suka yi wa’adi da shi.</p>"
+  },
+  {
+    "content_id": "10032001017",
+    "version": "1.0.2",
+    "title": "Yunana 1:17",
+    "media_type": "Text",
+    "index_reference": "32001017",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>17</sup>&nbsp;Amma Ubangiji ya tanada wani babban kifi da zai haɗiye Yunana, Yunana kuwa ya yi yini uku da dare uku a ciki cikin kifin.</p>"
+  },
+  {
+    "content_id": "10032002001",
+    "version": "1.0.2",
+    "title": "Yunana 2:1",
+    "media_type": "Text",
+    "index_reference": "32002001",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>1</sup>&nbsp;Daga ciki cikin kifi, Yunana ya yi addu’a ga Ubangiji Allahnsa.</p>"
+  },
+  {
+    "content_id": "10032002002",
+    "version": "1.0.2",
+    "title": "Yunana 2:2",
+    "media_type": "Text",
+    "index_reference": "32002002",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>2</sup>&nbsp;Ya ce, “A cikin damuwata na yi kira ga Ubangiji, ya kuwa amsa mini. Daga cikin zurfi kabari na yi kiran neman taimako, ka kuwa saurari kukata.</p>"
+  },
+  {
+    "content_id": "10032002003",
+    "version": "1.0.2",
+    "title": "Yunana 2:3",
+    "media_type": "Text",
+    "index_reference": "32002003",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>3</sup>&nbsp;Cikin tashin hankali, ka jefa ni cikin zurfafa, a tsakiyar teku, ka kuma jujjuya ni a cikin ruwa; dukan raƙuman ruwanka da ambaliyarka sun bi ta kaina.</p>"
+  },
+  {
+    "content_id": "10032002004",
+    "version": "1.0.2",
+    "title": "Yunana 2:4",
+    "media_type": "Text",
+    "index_reference": "32002004",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>4</sup>&nbsp;Sai na ce, ‘An kore ni daga fuskarka; duk da haka zan sāke duba wajen haikalinka mai tsarki.’</p>"
+  },
+  {
+    "content_id": "10032002005",
+    "version": "1.0.2",
+    "title": "Yunana 2:5",
+    "media_type": "Text",
+    "index_reference": "32002005",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>5</sup>&nbsp;Ruwayen da suke kewaye da ni sun yi mini barazana, zurfi kuma ya kewaye ni, ciyayin ruwa suna nannaɗe kewaye da ni.</p>"
+  },
+  {
+    "content_id": "10032002006",
+    "version": "1.0.2",
+    "title": "Yunana 2:6",
+    "media_type": "Text",
+    "index_reference": "32002006",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>6</sup>&nbsp;Na nutsa har ƙarƙashin tuddai; a ƙarƙashin duniya, ka rufe ni har abada. Amma ka dawo da raina daga rami, Ya Ubangiji Allahna.</p>"
+  },
+  {
+    "content_id": "10032002007",
+    "version": "1.0.2",
+    "title": "Yunana 2:7",
+    "media_type": "Text",
+    "index_reference": "32002007",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>7</sup>&nbsp;“Sa’ad da na ji raina yana rabuwa da ni, na tuna da kai ya Ubangiji, addu’ata kuma ta kai gare ka, a haikalinka mai tsarki.</p>"
+  },
+  {
+    "content_id": "10032002008",
+    "version": "1.0.2",
+    "title": "Yunana 2:8",
+    "media_type": "Text",
+    "index_reference": "32002008",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>8</sup>&nbsp;“Waɗanda suka maƙale wa gumaka marasa amfani, sukan ƙyale alherin da zai kasance nasu.</p>"
+  },
+  {
+    "content_id": "10032002009",
+    "version": "1.0.2",
+    "title": "Yunana 2:9",
+    "media_type": "Text",
+    "index_reference": "32002009",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>9</sup>&nbsp;Amma ni, da waƙar godiya, zan miƙa tawa hadaya gare ka. Abin da na yi alkawari, shi ne zan yi. Ceto yakan zo ne kawai daga wurin Ubangiji.”</p>"
+  },
+  {
+    "content_id": "10032002010",
+    "version": "1.0.2",
+    "title": "Yunana 2:10",
+    "media_type": "Text",
+    "index_reference": "32002010",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>10</sup>&nbsp;Sai Ubangiji ya umarci kifin, kifin kuwa ya amayar da Yunana a gaɓan teku.</p>"
+  },
+  {
+    "content_id": "10032003001",
+    "version": "1.0.2",
+    "title": "Yunana 3:1",
+    "media_type": "Text",
+    "index_reference": "32003001",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>1</sup>&nbsp;Sa’an nan sai maganar Ubangiji ta zo wa Yunana sau na biyu.</p>"
+  },
+  {
+    "content_id": "10032003002",
+    "version": "1.0.2",
+    "title": "Yunana 3:2",
+    "media_type": "Text",
+    "index_reference": "32003002",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>2</sup>&nbsp;“Tafi babban birnin nan Ninebe, ka yi masa shelar saƙon da na ba ka.”</p>"
+  },
+  {
+    "content_id": "10032003003",
+    "version": "1.0.2",
+    "title": "Yunana 3:3",
+    "media_type": "Text",
+    "index_reference": "32003003",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>3</sup>&nbsp;Sai Yunana ya yi biyayya da maganar Ubangiji, ya tafi Ninebe. Ninebe birni ne da yake da muhimmanci, wanda sai an ɗauki kwana uku kafin a iya zaga shi.</p>"
+  },
+  {
+    "content_id": "10032003004",
+    "version": "1.0.2",
+    "title": "Yunana 3:4",
+    "media_type": "Text",
+    "index_reference": "32003004",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>4</sup>&nbsp;A rana ta fari, Yunana ya kama tafiya yana ratsa birnin. Sai ya yi shela cewa, “Nan da kwana arba’in za a hallaka Ninebe?”</p>"
+  },
+  {
+    "content_id": "10032003005",
+    "version": "1.0.2",
+    "title": "Yunana 3:5",
+    "media_type": "Text",
+    "index_reference": "32003005",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>5</sup>&nbsp;Mutanen Ninebe kuwa suka gaskata Allah. Aka yi shela a yi azumi, sai dukansu daga babba har zuwa ƙaraminsu, suka sa tufafin makoki.</p>"
+  },
+  {
+    "content_id": "10032003006",
+    "version": "1.0.2",
+    "title": "Yunana 3:6",
+    "media_type": "Text",
+    "index_reference": "32003006",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>6</sup>&nbsp;Da saƙon Yunana ya kai kunnen sarkin Ninebe, sai ya tashi daga kujerar mulkinsa, ya tuɓe alkyabbarsa, ya sa rigar makoki, ya zauna cikin toka.</p>"
+  },
+  {
+    "content_id": "10032003007",
+    "version": "1.0.2",
+    "title": "Yunana 3:7",
+    "media_type": "Text",
+    "index_reference": "32003007",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>7</sup>&nbsp;Sai ya yi umarni a Ninebe cewa, “Bisa ga umarnin sarki da fadawansa. “Kada a bar wani mutum ko dabba, garke ko shannu, su ɗanɗana wani abu; kada a bari su ci ko su sha.</p>"
+  },
+  {
+    "content_id": "10032003008",
+    "version": "1.0.2",
+    "title": "Yunana 3:8",
+    "media_type": "Text",
+    "index_reference": "32003008",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>8</sup>&nbsp;Bari kowane mutum da dabba yă yafa rigunan makoki. Kowa yă roƙi Allah da gaske, kowa kuma yă bar mugayen ayyukan da yake yi.</p>"
+  },
+  {
+    "content_id": "10032003009",
+    "version": "1.0.2",
+    "title": "Yunana 3:9",
+    "media_type": "Text",
+    "index_reference": "32003009",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>9</sup>&nbsp;Wa ya sani? Ko Allah zai ji tausayinmu da kuma juyayinmu yă janye zafin fushinsa don kada mu hallaka.”</p>"
+  },
+  {
+    "content_id": "10032003010",
+    "version": "1.0.2",
+    "title": "Yunana 3:10",
+    "media_type": "Text",
+    "index_reference": "32003010",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>10</sup>&nbsp;Da Allah ya ga abin da suka yi, da kuma yadda suka juya daga mugayen hanyoyinsu sai ya ji tausayinsu, bai kawo hallaka a kansu yadda ya yi shirin yi ba.</p>"
+  },
+  {
+    "content_id": "10032004001",
+    "version": "1.0.2",
+    "title": "Yunana 4:1",
+    "media_type": "Text",
+    "index_reference": "32004001",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>1</sup>&nbsp;Sai abin ya ɓata wa Yunana rai ƙwarai har ya yi fushi.</p>"
+  },
+  {
+    "content_id": "10032004002",
+    "version": "1.0.2",
+    "title": "Yunana 4:2",
+    "media_type": "Text",
+    "index_reference": "32004002",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>2</sup>&nbsp;Sai ya yi addu’a ga Ubangiji ya ce, “Ya Ubangiji, ba irin abin da na faɗa ke nan ba tun ina gida? Wannan ne ya sa na yi ƙoƙarin tserewa zuwa Tarshish. Ai, na sani kai Allah ne mai alheri da tausayi, mai jinkirin fushi da cikakkiyar ƙauna, kai Allah ne mai dakatar da nufinka na yin hukunci.</p>"
+  },
+  {
+    "content_id": "10032004003",
+    "version": "1.0.2",
+    "title": "Yunana 4:3",
+    "media_type": "Text",
+    "index_reference": "32004003",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>3</sup>&nbsp;Yanzu, ya Ubangiji, ka ɗauki raina, domin ya fi sauƙi a gare ni in mutu da in rayu.”</p>"
+  },
+  {
+    "content_id": "10032004004",
+    "version": "1.0.2",
+    "title": "Yunana 4:4",
+    "media_type": "Text",
+    "index_reference": "32004004",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>4</sup>&nbsp;Amma Ubangiji ya amsa, ya ce; “Daidai ne ka yi fushi?”</p>"
+  },
+  {
+    "content_id": "10032004005",
+    "version": "1.0.2",
+    "title": "Yunana 4:5",
+    "media_type": "Text",
+    "index_reference": "32004005",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>5</sup>&nbsp;Sai Yunana ya fita daga birnin ya yi wajen gabas, ya zauna. A nan ya yi wa kansa rumfa, ya zauna cikin inuwarta yana jira yă ga abin da zai sami birnin.</p>"
+  },
+  {
+    "content_id": "10032004006",
+    "version": "1.0.2",
+    "title": "Yunana 4:6",
+    "media_type": "Text",
+    "index_reference": "32004006",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>6</sup>&nbsp;Sai Ubangiji Allah ya sa wata ’yar kuringa ta tsiro, ta yi girma a inda Yunana yake, don ta inuwantar da shi, yă ji daɗi. Yunana kuwa ya yi murna matuƙa da wannan kuringa.</p>"
+  },
+  {
+    "content_id": "10032004007",
+    "version": "1.0.2",
+    "title": "Yunana 4:7",
+    "media_type": "Text",
+    "index_reference": "32004007",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>7</sup>&nbsp;Amma kashegari da safe sai Allah ya sa tsutsa ta cinye ’yar kuringar har ta mutu.</p>"
+  },
+  {
+    "content_id": "10032004008",
+    "version": "1.0.2",
+    "title": "Yunana 4:8",
+    "media_type": "Text",
+    "index_reference": "32004008",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>8</sup>&nbsp;Sa’ad da rana ta yi sama, sai Allah ya sa iskar gabas mai zafi ta huro, zafin ranar kuma ya buga kan Yunana, har ya ji sai ka ce zai suma. Ya so a ce ya mutu ma, sai ya ce, “Gara in mutu da a ce ina zaune da rai.”</p>"
+  },
+  {
+    "content_id": "10032004009",
+    "version": "1.0.2",
+    "title": "Yunana 4:9",
+    "media_type": "Text",
+    "index_reference": "32004009",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>9</sup>&nbsp;Amma Allah ya ce wa Yunana, “Daidai ne ka yi fushi saboda wannan kuringa?” Sai Yunana ya ce, “I, daidai ne, ina fushi matuƙa, har ina so da na mutu ma.”</p>"
+  },
+  {
+    "content_id": "10032004010",
+    "version": "1.0.2",
+    "title": "Yunana 4:10",
+    "media_type": "Text",
+    "index_reference": "32004010",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>10</sup>&nbsp;Sai Ubangiji ya ce, “Ai, wannan kuringa ta tsira dare ɗaya ta kuma ɓace kafin dare na biyu, ba ka yi wata wahala dominta ba, ba kai ne ka sa ta yi girma ba, duk da haka ranka ya ɓace saboda ita.</p>"
+  },
+  {
+    "content_id": "10032004011",
+    "version": "1.0.2",
+    "title": "Yunana 4:11",
+    "media_type": "Text",
+    "index_reference": "32004011",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>11</sup>&nbsp;Ashe, ba dole ne in ji tausayin babban birnin nan Ninebe mai mutum sama da dubu ɗari da ashirin (120,000) marasa alhaki, da kuma dabbobi masu yawa ba?”</p>"
+  }
+]
