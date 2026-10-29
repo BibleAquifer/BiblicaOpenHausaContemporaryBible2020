@@ -1,0 +1,952 @@
+[
+  {
+    "content_id": "10051001001",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 1:1",
+    "media_type": "Text",
+    "index_reference": "51001001",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>1</sup>&nbsp;Bulus, wanda Allah ya zaɓa don yă zama manzon Kiristi Yesu, da kuma daga Timoti ɗan’uwanmu,</p>"
+  },
+  {
+    "content_id": "10051001002",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 1:2",
+    "media_type": "Text",
+    "index_reference": "51001002",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>2</sup>&nbsp;Zuwa ga tsarkaka da kuma amintattun ’yan’uwa cikin Kiristi da suke a Kolossi. Alheri da salama daga Allah Ubanmu, su kasance tare da ku.</p>"
+  },
+  {
+    "content_id": "10051001003",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 1:3",
+    "media_type": "Text",
+    "index_reference": "51001003",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>3</sup>&nbsp;Kullum muna gode wa Allah, Uban Ubangijinmu Yesu Kiristi, sa’ad da muke addu’a dominku.</p>"
+  },
+  {
+    "content_id": "10051001004",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 1:4",
+    "media_type": "Text",
+    "index_reference": "51001004",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>4</sup>&nbsp;Gama mun ji labarin bangaskiyarku a cikin Yesu Kiristi da kuma ƙaunar da kuke yi saboda dukan tsarkaka.</p>"
+  },
+  {
+    "content_id": "10051001005",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 1:5",
+    "media_type": "Text",
+    "index_reference": "51001005",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>5</sup>&nbsp;Kuna yin haka ne kuwa domin abin da kuke bege yana a ajiye a sama. Kun riga kun ji game da wannan bege sa’ad da kuka gaskata saƙon nan na gaskiya wanda shi ne bisharar</p>"
+  },
+  {
+    "content_id": "10051001006",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 1:6",
+    "media_type": "Text",
+    "index_reference": "51001006",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>6</sup>&nbsp;da ta zo muku. Ko’ina a duniya wannan bishara tana yi ta haihuwa tana kuma girma, kamar yadda take yi a cikinku tun daga ranar da kuka ji ta kuka kuma fahimci alherin Allah cikin dukan gaskiyarta.</p>"
+  },
+  {
+    "content_id": "10051001007",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 1:7",
+    "media_type": "Text",
+    "index_reference": "51001007",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>7</sup>&nbsp;Kun koyi wannan gaskiya daga wurin Efafaras, ƙaunataccen abokin hidimarmu, wanda yake amintacce mai hidimar Kiristi a madadinmu,</p>"
+  },
+  {
+    "content_id": "10051001008",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 1:8",
+    "media_type": "Text",
+    "index_reference": "51001008",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>8</sup>&nbsp;wanda kuma ya faɗa mana ƙaunar da kuke yi cikin Ruhu.</p>"
+  },
+  {
+    "content_id": "10051001009",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 1:9",
+    "media_type": "Text",
+    "index_reference": "51001009",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>9</sup>&nbsp;Shi ya sa tun daga ranar da muka sami labarin, ba mu fasa yin addu’a dominku ba. Kullum muna roƙon Allah yă sa ku san kome da yake so ku yi, domin ku sami hikima ta Ruhu, ku kuma sami ganewar kome duka.</p>"
+  },
+  {
+    "content_id": "10051001010",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 1:10",
+    "media_type": "Text",
+    "index_reference": "51001010",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>10</sup>&nbsp;Ta haka za ku yi rayuwa wadda ta dace da Ubangiji, ku kuma gamshe shi a ta kowace hanya, kuna yin aiki mai kyau ta kowace hanya, kuna kuma yin girma cikin sanin Allah.</p>"
+  },
+  {
+    "content_id": "10051001011",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 1:11",
+    "media_type": "Text",
+    "index_reference": "51001011",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>11</sup>&nbsp;Allah yă ƙarfafa ku da dukan iko bisa ga ɗaukakar ƙarfinsa domin ku kasance da jimrewa sosai da kuma haƙuri, cikin farin ciki</p>"
+  },
+  {
+    "content_id": "10051001012",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 1:12",
+    "media_type": "Text",
+    "index_reference": "51001012",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>12</sup>&nbsp;kuna gode wa Uba, wanda ya sa kuka cancanci ku sami rabo a gādon tsarkaka a cikin mulkin haske.</p>"
+  },
+  {
+    "content_id": "10051001013",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 1:13",
+    "media_type": "Text",
+    "index_reference": "51001013",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>13</sup>&nbsp;Gama ya riga ya cece mu daga mulkin duhu ya kuma kawo mu cikin mulkin Ɗan da yake ƙauna,</p>"
+  },
+  {
+    "content_id": "10051001014",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 1:14",
+    "media_type": "Text",
+    "index_reference": "51001014",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>14</sup>&nbsp;wanda ta wurinsa muka sami fansa da kuma gafarar zunubai.</p>"
+  },
+  {
+    "content_id": "10051001015",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 1:15",
+    "media_type": "Text",
+    "index_reference": "51001015",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>15</sup>&nbsp;Kiristi shi ne surar da ake gani na Allah wanda ba a iya gani, ɗan fari a kan dukan halitta.</p>"
+  },
+  {
+    "content_id": "10051001016",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 1:16",
+    "media_type": "Text",
+    "index_reference": "51001016",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>16</sup>&nbsp;Ta wurinsa aka halicci dukan abu, abubuwan da suke cikin sama da abubuwan da suke a duniya, waɗanda ake gani, da waɗanda ba a gani, ko kursiyoyi ko ikoki ko masu mulki ko hukumomi; an halicci dukan abu ta wurinsa da kuma dominsa ne.</p>"
+  },
+  {
+    "content_id": "10051001017",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 1:17",
+    "media_type": "Text",
+    "index_reference": "51001017",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>17</sup>&nbsp;Ya kasance kafin dukan abu, kuma a cikinsa ne dukan abubuwa suke a harhaɗe.</p>"
+  },
+  {
+    "content_id": "10051001018",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 1:18",
+    "media_type": "Text",
+    "index_reference": "51001018",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>18</sup>&nbsp;Shi ne kuma kan ikkilisiya, wadda take jikinsa. Shi ne mafari da kuma na farko da ya tashi daga matattu, domin a cikin kowane abu yă zama mafifici.</p>"
+  },
+  {
+    "content_id": "10051001019",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 1:19",
+    "media_type": "Text",
+    "index_reference": "51001019",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>19</sup>&nbsp;Gama Allah ya ji daɗi yă sa dukan cikarsa ta kasance a cikin Kiristi,</p>"
+  },
+  {
+    "content_id": "10051001020",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 1:20",
+    "media_type": "Text",
+    "index_reference": "51001020",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>20</sup>&nbsp;ta wurin Kiristi ne ya komar da kome zuwa ga kansa. Ya kawo salama ga abubuwan da suke ƙasa da abubuwan da suke sama, ta wurin jinin Kiristi da ya zubar a kan gicciye.</p>"
+  },
+  {
+    "content_id": "10051001021",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 1:21",
+    "media_type": "Text",
+    "index_reference": "51001021",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>21</sup>&nbsp;A dā kuna a ware da Allah, kuka kuma zama abokan gāba a cikin tunaninku saboda mugun halinku.</p>"
+  },
+  {
+    "content_id": "10051001022",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 1:22",
+    "media_type": "Text",
+    "index_reference": "51001022",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>22</sup>&nbsp;Amma Ɗansa ya zama mutum ya kuma mutu. Saboda haka Allah ya yi sulhu da ku, yanzu kuwa ya bar ku ku tsaya a gabansa da tsarki, marasa aibi, da kuma marasa abin zargi.</p>"
+  },
+  {
+    "content_id": "10051001023",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 1:23",
+    "media_type": "Text",
+    "index_reference": "51001023",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>23</sup>&nbsp;Sai ku ci gaba cikin bangaskiyarku, kuna tsaye a kafe kuma tsayayyu, ba tare da gusawa daga begen da kuka ji daga bishara ba. Wannan ita ce bisharar da kuka ji wadda aka yi shelarta ga kowace halittar da take ƙarƙashin sama, wadda kuma ni Bulus, na zama mai hidimarta.</p>"
+  },
+  {
+    "content_id": "10051001024",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 1:24",
+    "media_type": "Text",
+    "index_reference": "51001024",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>24</sup>&nbsp;Yanzu, ina farin ciki saboda wuyar da nake sha dominku, don ta wurin wuyan nan zan cika abin da ya rage na wuyar da Kiristi ya sha saboda jikinsa, wato, ikkilisiya.</p>"
+  },
+  {
+    "content_id": "10051001025",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 1:25",
+    "media_type": "Text",
+    "index_reference": "51001025",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>25</sup>&nbsp;Na zama mai hidimar ikkilisiya bisa ga aikin nan da Allah ya ba ni amana saboda ku, domin in sanar da maganar Allah sosai.</p>"
+  },
+  {
+    "content_id": "10051001026",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 1:26",
+    "media_type": "Text",
+    "index_reference": "51001026",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>26</sup>&nbsp;Wannan magana da nake gaya muku asiri ne da yake a ɓoye tun zamanai masu yawa, wanda yanzu aka bayyana ga tsarkaka.</p>"
+  },
+  {
+    "content_id": "10051001027",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 1:27",
+    "media_type": "Text",
+    "index_reference": "51001027",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>27</sup>&nbsp;Su ne Allah ya so yă sanar da yadda irin yalwar ɗaukakar asirin nan take a cikin al’ummai, asirin nan kuwa shi ne Kiristi a cikinku, begen ɗaukakar da za a bayyana.</p>"
+  },
+  {
+    "content_id": "10051001028",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 1:28",
+    "media_type": "Text",
+    "index_reference": "51001028",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>28</sup>&nbsp;Saboda haka ko’ina muka tafi, muna shela, muna gargaɗi, muna kuma koyar da kowa da dukan hikima, don mu miƙa kowa cikakke a cikin Kiristi.</p>"
+  },
+  {
+    "content_id": "10051001029",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 1:29",
+    "media_type": "Text",
+    "index_reference": "51001029",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>29</sup>&nbsp;Don haka ne ina fama, ina kuma ƙoƙari da duk ƙarfin nan da Kiristi ya ba ni.</p>"
+  },
+  {
+    "content_id": "10051002001",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 2:1",
+    "media_type": "Text",
+    "index_reference": "51002001",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>1</sup>&nbsp;Ina so ku san irin famar da nake yi saboda ku da kuma waɗanda suke a Lawodiseya, da kuma saboda dukan waɗanda ba su taɓa ganina ido da ido ba.</p>"
+  },
+  {
+    "content_id": "10051002002",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 2:2",
+    "media_type": "Text",
+    "index_reference": "51002002",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>2</sup>&nbsp;Manufata ita ce a ƙarfafa su su kuma zama ɗaya a cikin ƙauna. Ina so su kasance da cikakken ƙarfin hali domin suna da cikakken fahimtar asirin Allah, wato, Kiristi kansa,</p>"
+  },
+  {
+    "content_id": "10051002003",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 2:3",
+    "media_type": "Text",
+    "index_reference": "51002003",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>3</sup>&nbsp;a cikinsa ne aka ɓoye dukkan dukiya ta hikima da ta sani.</p>"
+  },
+  {
+    "content_id": "10051002004",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 2:4",
+    "media_type": "Text",
+    "index_reference": "51002004",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>4</sup>&nbsp;Ina faɗa muku wannan ne don kada wani yă ruɗe ku da daɗin baki.</p>"
+  },
+  {
+    "content_id": "10051002005",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 2:5",
+    "media_type": "Text",
+    "index_reference": "51002005",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>5</sup>&nbsp;Gama ko da yake ba na nan tare da ku a cikin jiki, ina tunaninku kullum, ina kuma farin ciki da gani kuna rayuwa yadda ya kamata, kuna kuma dāgewarku a kan bangaskiyarku a cikin Kiristi.</p>"
+  },
+  {
+    "content_id": "10051002006",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 2:6",
+    "media_type": "Text",
+    "index_reference": "51002006",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>6</sup>&nbsp;To, da yake kun karɓi Kiristi Yesu a matsayin Ubangiji, sai ku ci gaba da rayuwa a cikinsa,</p>"
+  },
+  {
+    "content_id": "10051002007",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 2:7",
+    "media_type": "Text",
+    "index_reference": "51002007",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>7</sup>&nbsp;ku tsaya daram ku kuma ginu a cikinsa, ku sami ƙarfafawa a cikin bangaskiya kamar yadda aka koya muku, kuna kuma cike da godiya.</p>"
+  },
+  {
+    "content_id": "10051002008",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 2:8",
+    "media_type": "Text",
+    "index_reference": "51002008",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>8</sup>&nbsp;Ku lura kada wani yă ruɗe ku da ilimin banza da wofi. Wannan koyarwa ta mutane ce kawai. Ta fito daga ikokin wannan duniya ne ba daga Kiristi ba.</p>"
+  },
+  {
+    "content_id": "10051002009",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 2:9",
+    "media_type": "Text",
+    "index_reference": "51002009",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>9</sup>&nbsp;Gama a cikin Kiristi cikin jiki dukkan cikar Allahntaka take tabbata,</p>"
+  },
+  {
+    "content_id": "10051002010",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 2:10",
+    "media_type": "Text",
+    "index_reference": "51002010",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>10</sup>&nbsp;an kuma mai da ku cikakku a cikin Kiristi, wanda yake shi ne kai a kan kowane iko da kuma hukuma.</p>"
+  },
+  {
+    "content_id": "10051002011",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 2:11",
+    "media_type": "Text",
+    "index_reference": "51002011",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>11</sup>&nbsp;A cikinsa ne kuma aka yi muku kaciya, ba kuwa yin mutum ba, amma wadda Kiristi ya yi muku, ta wurin tuɓe halinku na mutuntaka.</p>"
+  },
+  {
+    "content_id": "10051002012",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 2:12",
+    "media_type": "Text",
+    "index_reference": "51002012",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>12</sup>&nbsp;Da yake an binne ku tare da shi cikin baftisma haka kuma aka tashe ku tare da shi ta wurin bangaskiyarku a cikin ikon Allah, wanda ya tashe shi daga matattu.</p>"
+  },
+  {
+    "content_id": "10051002013",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 2:13",
+    "media_type": "Text",
+    "index_reference": "51002013",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>13</sup>&nbsp;Kun zama matattu saboda ku masu zunubi ne kuma saboda halin zunubanku aka ware. Sa’an nan Allah ya sa kuka rayu tare da Kiristi. Ya gafarta mana dukan zunubanmu.</p>"
+  },
+  {
+    "content_id": "10051002014",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 2:14",
+    "media_type": "Text",
+    "index_reference": "51002014",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>14</sup>&nbsp;Ya soke rubutacciyar doka tare da ƙa’idodinta, wadda take gāba da mu, take kuma hamayya da mu; ya kuma kawar da ta, ya kafe ta a kan gicciye.</p>"
+  },
+  {
+    "content_id": "10051002015",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 2:15",
+    "media_type": "Text",
+    "index_reference": "51002015",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>15</sup>&nbsp;Bayan ya ƙwace makaman ikoki da hukumomi, ya kunyata su a sarari, ya ci nasara a bisansu ta wurin gicciye.</p>"
+  },
+  {
+    "content_id": "10051002016",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 2:16",
+    "media_type": "Text",
+    "index_reference": "51002016",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>16</sup>&nbsp;Saboda haka kada ku bar wani yă shari’anta ku a kan abin da kuke ci ko sha, ko bisa ga abin da ya shafi wani bikin addini, ko Bikin Sabon Wata ko na ranar Asabbaci.</p>"
+  },
+  {
+    "content_id": "10051002017",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 2:17",
+    "media_type": "Text",
+    "index_reference": "51002017",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>17</sup>&nbsp;Waɗannan su ne hoton abubuwan da za su zo; amma Kiristi ne ainihinsu.</p>"
+  },
+  {
+    "content_id": "10051002018",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 2:18",
+    "media_type": "Text",
+    "index_reference": "51002018",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>18</sup>&nbsp;Kada ku yarda wani yă ɓata ku, cewa shi wani abu ne don yă ga wahayi. Irin mutumin nan yakan nuna ƙasƙancin kai na ƙarya, yă kuma ce yana yi wa mala’iku sujada. Irin mutumin nan yana kumbura kansa ba dalili, sai son zuciya irin na halin mutuntaka.</p>"
+  },
+  {
+    "content_id": "10051002019",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 2:19",
+    "media_type": "Text",
+    "index_reference": "51002019",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>19</sup>&nbsp;Ya yanke dangantaka da Kiristi wanda yake kai, wanda ta gare shi ne dukan jiki yake a haɗe, yake tsaye ta wurin taimakon gaɓoɓi da jijiyoyi, yana kuma girma kamar yadda Allah yake sa yă yi girma.</p>"
+  },
+  {
+    "content_id": "10051002020",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 2:20",
+    "media_type": "Text",
+    "index_reference": "51002020",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>20</sup>&nbsp;Kun mutu tare da Kiristi. Yanzu ƙa’idodin wannan duniya ba su da iko a kanku. Don me kuke zama har yanzu kamar ku nasu ne? Kuna biyayya da umarnansu cewa,</p>"
+  },
+  {
+    "content_id": "10051002021",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 2:21",
+    "media_type": "Text",
+    "index_reference": "51002021",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>21</sup>&nbsp;“Kada ka kama! Kada ka ɗanɗana! Kada ka taɓa”?</p>"
+  },
+  {
+    "content_id": "10051002022",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 2:22",
+    "media_type": "Text",
+    "index_reference": "51002022",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>22</sup>&nbsp;Irin waɗannan dokoki suna magana a kan abubuwan da ba sa daɗewa. Su ayyukan mutane ne, sun kuma fito daga koyarwar mutane.</p>"
+  },
+  {
+    "content_id": "10051002023",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 2:23",
+    "media_type": "Text",
+    "index_reference": "51002023",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>23</sup>&nbsp;Yin biyayya da irin waɗannan ƙa’idodi za su yi kamar su ne abu mafi kyau da za a yi. Sukan yi kamar suna sa a ƙaunaci Allah sosai a kuma kasance da sauƙinkai a kuma kasance da kamunkai. Amma ba su da wani iko a kan sha’awace-sha’awacenmu.</p>"
+  },
+  {
+    "content_id": "10051003001",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 3:1",
+    "media_type": "Text",
+    "index_reference": "51003001",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>1</sup>&nbsp;Da yake an tashe ku tare da Kiristi, sai ku sa zukatanku a kan abubuwan da suke sama, inda Kiristi yake zaune a hannun dama na Allah.</p>"
+  },
+  {
+    "content_id": "10051003002",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 3:2",
+    "media_type": "Text",
+    "index_reference": "51003002",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>2</sup>&nbsp;Ku sa hankulanku a kan abubuwan sama, ba kan abubuwan duniya ba.</p>"
+  },
+  {
+    "content_id": "10051003003",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 3:3",
+    "media_type": "Text",
+    "index_reference": "51003003",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>3</sup>&nbsp;Gama kun mutu, ranku yanzu kuwa yana ɓoye tare da Kiristi a cikin Allah.</p>"
+  },
+  {
+    "content_id": "10051003004",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 3:4",
+    "media_type": "Text",
+    "index_reference": "51003004",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>4</sup>&nbsp;Sa’ad da Kiristi, wanda shi ne ranku, ya bayyana, ku ma za ku bayyana tare da shi cikin ɗaukaka.</p>"
+  },
+  {
+    "content_id": "10051003005",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 3:5",
+    "media_type": "Text",
+    "index_reference": "51003005",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>5</sup>&nbsp;Saboda haka, sai ku fid da duk wani abin da yake kawo sha’awa a zukatanku, fasikanci, ƙazanta, sha’awa, muguwar sha’awa, da kuma kwaɗayi wanda shi ma bautar gumaka ne.</p>"
+  },
+  {
+    "content_id": "10051003006",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 3:6",
+    "media_type": "Text",
+    "index_reference": "51003006",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>6</sup>&nbsp;Gama fushin Allah zai sauko a kan masu aikata waɗannan.</p>"
+  },
+  {
+    "content_id": "10051003007",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 3:7",
+    "media_type": "Text",
+    "index_reference": "51003007",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>7</sup>&nbsp;Dā kun yi waɗannan abubuwa, sa’ad da rayuwar tana cikin duniya mai wannan hali.</p>"
+  },
+  {
+    "content_id": "10051003008",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 3:8",
+    "media_type": "Text",
+    "index_reference": "51003008",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>8</sup>&nbsp;Amma yanzu dole ku raba kanku da dukan ire-iren abubuwan nan. Ku daina fushi, ku daina ƙiyayya da ƙeta. Ku bar ɓatan suna da kuma ƙazamar magana daga leɓunanku.</p>"
+  },
+  {
+    "content_id": "10051003009",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 3:9",
+    "media_type": "Text",
+    "index_reference": "51003009",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>9</sup>&nbsp;Kada ku yi wa juna ƙarya, da yake kun tuɓe tsohon halinku tare da ayyukansa</p>"
+  },
+  {
+    "content_id": "10051003010",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 3:10",
+    "media_type": "Text",
+    "index_reference": "51003010",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>10</sup>&nbsp;kun ɗauki sabon halin nan da ake sabuntawa ga sani, bisa ga kamannin Mahaliccinsa.</p>"
+  },
+  {
+    "content_id": "10051003011",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 3:11",
+    "media_type": "Text",
+    "index_reference": "51003011",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>11</sup>&nbsp;A wannan sabuwar rayuwa babu bambanci ko kai mutumin Al’ummai ne ko mutumin Yahuda, mai kaciya ne ko marar kaciya, baƙo, baƙauye, bawa ne ko ’yantacce, gama Kiristi shi ne kome, kuma yana cikin kome.</p>"
+  },
+  {
+    "content_id": "10051003012",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 3:12",
+    "media_type": "Text",
+    "index_reference": "51003012",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>12</sup>&nbsp;Da yake Allah ya mai da ku zaɓaɓɓu, tsarkaka, ƙaunatattu, sai ku dinga jin tausayin juna, kuna yin alheri, kuna nuna tawali’u da sauƙinkai da jimrewa.</p>"
+  },
+  {
+    "content_id": "10051003013",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 3:13",
+    "media_type": "Text",
+    "index_reference": "51003013",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>13</sup>&nbsp;Ku riƙa yin haƙuri da juna kuna kuma gafarta wa juna duk wani laifin da wani ya yi muku. Ku gafarta kamar yadda Ubangiji ya gafarce ku.</p>"
+  },
+  {
+    "content_id": "10051003014",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 3:14",
+    "media_type": "Text",
+    "index_reference": "51003014",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>14</sup>&nbsp;Fiye da waɗannan duka, ku yi ƙaunar juna, gama ƙauna ce take haɗa kome gaba ɗaya.</p>"
+  },
+  {
+    "content_id": "10051003015",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 3:15",
+    "media_type": "Text",
+    "index_reference": "51003015",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>15</sup>&nbsp;Ku bar salamar Kiristi tă yi mulki a zukatanku, da yake a matsayin gaɓoɓin jiki ɗaya an kira ku ga salama. Ku zama masu godiya.</p>"
+  },
+  {
+    "content_id": "10051003016",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 3:16",
+    "media_type": "Text",
+    "index_reference": "51003016",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>16</sup>&nbsp;Ku bar maganar Kiristi ta zauna a cikinku a yalwace yayinda kuke koya, kuna kuma yi wa juna gargaɗi da dukan hikima, da kuma yayinda kuke waƙoƙin zabura, waƙoƙi da waƙoƙin ruhaniya tare da godiya a zukatanku ga Allah.</p>"
+  },
+  {
+    "content_id": "10051003017",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 3:17",
+    "media_type": "Text",
+    "index_reference": "51003017",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>17</sup>&nbsp;Kuma ko mene ne kuke yi, ko cikin magana ko cikin ayyuka, ku yi shi duka a cikin sunan Ubangiji Yesu, kuna yin godiya ga Allah Uba ta wurinsa.</p>"
+  },
+  {
+    "content_id": "10051003018",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 3:18",
+    "media_type": "Text",
+    "index_reference": "51003018",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>18</sup>&nbsp;Mata, ku yi biyayya ga mazanku, yadda ya dace cikin Ubangiji.</p>"
+  },
+  {
+    "content_id": "10051003019",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 3:19",
+    "media_type": "Text",
+    "index_reference": "51003019",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>19</sup>&nbsp;Maza, ku ƙaunaci matanku kada ku nuna musu hali marar tausayi.</p>"
+  },
+  {
+    "content_id": "10051003020",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 3:20",
+    "media_type": "Text",
+    "index_reference": "51003020",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>20</sup>&nbsp;’Ya’ya, ku yi biyayya ga iyayenku cikin kome, gama wannan yakan gamshi Ubangiji.</p>"
+  },
+  {
+    "content_id": "10051003021",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 3:21",
+    "media_type": "Text",
+    "index_reference": "51003021",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>21</sup>&nbsp;Ubanni, kada ku matsa wa yaranku lamba, don kada su fid da zuciya.</p>"
+  },
+  {
+    "content_id": "10051003022",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 3:22",
+    "media_type": "Text",
+    "index_reference": "51003022",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>22</sup>&nbsp;Bayi, ku yi biyayya ga iyayengijinku na duniya cikin kome; kada ku yi aikin ganin ido kamar masu neman yabon mutane, sai dai ku yi aiki tsakaninku da Allah, kamar masu tsoron Ubangiji.</p>"
+  },
+  {
+    "content_id": "10051003023",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 3:23",
+    "media_type": "Text",
+    "index_reference": "51003023",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>23</sup>&nbsp;Kome kuke yi, ku yi shi da dukan zuciyarku, sai ka ce ga Ubangiji kuke yi, ba ga mutum ba.</p>"
+  },
+  {
+    "content_id": "10051003024",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 3:24",
+    "media_type": "Text",
+    "index_reference": "51003024",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>24</sup>&nbsp;Kun san cewa zai ba ku gādo a matsayin ladanku. Ubangiji Kiristi ne fa kuke bauta wa.</p>"
+  },
+  {
+    "content_id": "10051003025",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 3:25",
+    "media_type": "Text",
+    "index_reference": "51003025",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>25</sup>&nbsp;Duk wanda ya yi laifi, za a sāka masa don laifinsa, babu sonkai.</p>"
+  },
+  {
+    "content_id": "10051004001",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 4:1",
+    "media_type": "Text",
+    "index_reference": "51004001",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>1</sup>&nbsp;Masu bayi, ku riƙe bayinku da kyau da kuma daidai, domin kun san cewa ku ma kuna da Ubangiji a sama.</p>"
+  },
+  {
+    "content_id": "10051004002",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 4:2",
+    "media_type": "Text",
+    "index_reference": "51004002",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>2</sup>&nbsp;Ku nace da yin addu’a, kuna zaman tsaro da kuma godiya.</p>"
+  },
+  {
+    "content_id": "10051004003",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 4:3",
+    "media_type": "Text",
+    "index_reference": "51004003",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>3</sup>&nbsp;Ku kuma yi mana addu’a, mu ma, don Allah yă buɗe ƙofa saboda saƙonmu, don mu iya yin shelar asirin Kiristi, wanda saboda shi nake cikin sarƙoƙi.</p>"
+  },
+  {
+    "content_id": "10051004004",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 4:4",
+    "media_type": "Text",
+    "index_reference": "51004004",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>4</sup>&nbsp;Ku yi addu’a yadda zan yi shelarsa, yadda ya kamata.</p>"
+  },
+  {
+    "content_id": "10051004005",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 4:5",
+    "media_type": "Text",
+    "index_reference": "51004005",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>5</sup>&nbsp;Ku zama masu hikima a yadda kuke ma’amala da waɗanda suke ba masu bi ba; ku kuma yi amfani da kowane zarafi.</p>"
+  },
+  {
+    "content_id": "10051004006",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 4:6",
+    "media_type": "Text",
+    "index_reference": "51004006",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>6</sup>&nbsp;Bari maganarku kullum ta zama da ladabi da kuma daɗin ji, domin ku san amsar da ta dace ku ba wa kowa.</p>"
+  },
+  {
+    "content_id": "10051004007",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 4:7",
+    "media_type": "Text",
+    "index_reference": "51004007",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>7</sup>&nbsp;Tikikus shi ne ƙaunataccen ɗan’uwan nan, wanda ya yi aiki da aminci a hidimar Ubangiji tare da mu, zai kuwa faɗa muku dukan labari game da ni.</p>"
+  },
+  {
+    "content_id": "10051004008",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 4:8",
+    "media_type": "Text",
+    "index_reference": "51004008",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>8</sup>&nbsp;Ina aikansa shi a gare ku musamman domin ku san yadda muke, yă kuma ƙarfafa muku zuciya.</p>"
+  },
+  {
+    "content_id": "10051004009",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 4:9",
+    "media_type": "Text",
+    "index_reference": "51004009",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>9</sup>&nbsp;Yana zuwa tare da Onesimus, ƙaunatacce da kuma amintaccen mai bin nan, wanda yake ɗaya daga cikinku. Za su gaya muku dukan abin da yake faruwa a nan.</p>"
+  },
+  {
+    "content_id": "10051004010",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 4:10",
+    "media_type": "Text",
+    "index_reference": "51004010",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>10</sup>&nbsp;Aristarkus yana a kurkuku tare da ni. Yana gaishe ku, haka ma Markus, wanda kakansa ɗaya ne da Barnabas. (Shi ne na riga na yi magana a kansa, na ce muku in ya zo, ku karɓe shi hannu biyu-biyu.)</p>"
+  },
+  {
+    "content_id": "10051004011",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 4:11",
+    "media_type": "Text",
+    "index_reference": "51004011",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>11</sup>&nbsp;Yesu, wannan da muke kira Yustus, shi ma yana gaisuwa. Waɗannan ne kaɗai Yahudawa masu bi a cikin abokan aikina saboda mulkin Allah. Sun kuma zama da taimako a gare ni.</p>"
+  },
+  {
+    "content_id": "10051004012",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 4:12",
+    "media_type": "Text",
+    "index_reference": "51004012",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>12</sup>&nbsp;Efafaras naku, mai hidimar Kiristi Yesu, yana gaisuwa. Kullum yana addu’a dominku sosai, don ku san cikakken abin da Allah yake so ku yi don kuma ku yi shi cikakke.</p>"
+  },
+  {
+    "content_id": "10051004013",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 4:13",
+    "media_type": "Text",
+    "index_reference": "51004013",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>13</sup>&nbsp;Na tabbatar muku, cewa yana aiki ƙwarai dominku da kuma domin waɗanda suke a Lawodiseya da Hiyerafolis.</p>"
+  },
+  {
+    "content_id": "10051004014",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 4:14",
+    "media_type": "Text",
+    "index_reference": "51004014",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>14</sup>&nbsp;Luka ƙaunataccen likitan nan, da kuma Demas suna gaishe ku.</p>"
+  },
+  {
+    "content_id": "10051004015",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 4:15",
+    "media_type": "Text",
+    "index_reference": "51004015",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>15</sup>&nbsp;Ku miƙa gaisuwata ga ’yan’uwan da suke a Lawodiseya, musamman ga Nimfa da kuma ikkilisiyar da take taru a gidanta.</p>"
+  },
+  {
+    "content_id": "10051004016",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 4:16",
+    "media_type": "Text",
+    "index_reference": "51004016",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>16</sup>&nbsp;Bayan an karanta muku wannan wasiƙa, ku tabbata an karanta ta kuma a ikkilisiyar Lawodiseyawa; ku ma ku karanta wasiƙar da ta zo daga Lawodiseya.</p>"
+  },
+  {
+    "content_id": "10051004017",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 4:17",
+    "media_type": "Text",
+    "index_reference": "51004017",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>17</sup>&nbsp;Ku faɗa wa Arkiffus yă tabbata ya ƙarasa aikin da ya karɓa cikin Ubangiji.</p>"
+  },
+  {
+    "content_id": "10051004018",
+    "version": "1.0.2",
+    "title": "Kolossiyawa 4:18",
+    "media_type": "Text",
+    "index_reference": "51004018",
+    "language": "hau",
+    "review_level": "Professional",
+    "content": "<p><sup>18</sup>&nbsp;Ni Bulus ne nake rubuta muku wannan gaisuwa da hannuna. Ku tuna da sarƙoƙina. Alherin Allah yă kasance tare da ku.</p>"
+  }
+]
